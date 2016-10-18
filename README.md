@@ -16,3 +16,6 @@
 
 [Luong, Minh-Thang, Hieu Pham, and Christopher D. Manning. "Effective approaches to attention-based neural machine translation." ](https://arxiv.org/abs/1508.04025)arXiv preprint arXiv:1508.04025 (2015).
 
+## Parsing
+
+[Providence, R. I., and Eugene Charniak. "Parsing as Language Modeling."](http://cs.brown.edu/~dc65/papers/emnlp16.pdf)
