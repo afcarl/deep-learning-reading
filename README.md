@@ -10,9 +10,9 @@
 
 ## Attentional seq2seq
 
-[Bahdanau, Dzmitry, Kyunghyun Cho, and Yoshua Bengio. "Neural machine translation by jointly learning to align and translate." arXiv preprint arXiv:1409.0473 (2014).](https://arxiv.org/abs/1409.0473)
+[Bahdanau, Dzmitry, Kyunghyun Cho, and Yoshua Bengio. "Neural machine translation by jointly learning to align and translate." ](https://arxiv.org/abs/1409.0473) arXiv preprint arXiv:1409.0473 (2014).
 
-[Vinyals, Oriol, et al. "Grammar as a foreign language." Advances in Neural Information Processing Systems. 2015.](https://papers.nips.cc/paper/5635-grammar-as-a-foreign-language.pdf)
+[Vinyals, Oriol, et al. "Grammar as a foreign language."](https://papers.nips.cc/paper/5635-grammar-as-a-foreign-language.pdf) Advances in Neural Information Processing Systems. 2015
 
-[Luong, Minh-Thang, Hieu Pham, and Christopher D. Manning. "Effective approaches to attention-based neural machine translation." arXiv preprint arXiv:1508.04025 (2015).](https://arxiv.org/abs/1508.04025)
+[Luong, Minh-Thang, Hieu Pham, and Christopher D. Manning. "Effective approaches to attention-based neural machine translation." ](https://arxiv.org/abs/1508.04025)arXiv preprint arXiv:1508.04025 (2015).
 
