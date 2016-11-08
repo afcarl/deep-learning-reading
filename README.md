@@ -18,4 +18,8 @@
 
 ## Parsing
 
+[Cross, James, and Liang Huang. "Span-Based Constituency Parsing with a Structure-Label System and Provably Optimal Dynamic Oracles."](http://www.aclweb.org/anthology/D/D16/D16-1001.pdf). WIC: shift-reduce constituency parsing, embed spans by taking subtraction, O(1) dynamic oracle. 
+
+[Ballesteros, Miguel, et al. "Training with Exploration Improves a Greedy Stack-LSTM Parser." arXiv preprint arXiv:1603.03793 (2016).](https://arxiv.org/abs/1603.03793). WIC: dependency parsing, exploration with softmax is better than taking argmax. 
+
 [Providence, R. I., and Eugene Charniak. "Parsing as Language Modeling."](http://cs.brown.edu/~dc65/papers/emnlp16.pdf) (2016)
